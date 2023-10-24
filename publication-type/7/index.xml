@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Source Themes | Gregory Auclair</title>
-    <link>/tag/source-themes/</link>
-      <atom:link href="/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
-    <description>Source Themes</description>
+    <title>7 | Gregory Auclair</title>
+    <link>/publication-type/7/</link>
+      <atom:link href="/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Source Themes</title>
-      <link>/tag/source-themes/</link>
+      <title>7</title>
+      <link>/publication-type/7/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/job-market-paper/</link>
       <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
       <guid>/publication/job-market-paper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Integration Outcomes of U.S. Refugees: Successes and Challenges</title>
-      <link>/publication/published-paper/</link>
-      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/published-paper/</guid>
       <description></description>
     </item>
     
