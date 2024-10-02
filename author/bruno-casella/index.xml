@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bruno Casella | Gregory Auclair</title>
+    <link>/author/bruno-casella/</link>
+      <atom:link href="/author/bruno-casella/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bruno Casella</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Bruno Casella</title>
+      <link>/author/bruno-casella/</link>
+    </image>
+    
+    <item>
+      <title>Is the Global Minimum Tax on MNE Profits Well-Targeted?</title>
+      <link>/publication/working-paper-2/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/working-paper-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
